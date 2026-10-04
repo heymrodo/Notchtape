@@ -1,3 +1,6 @@
+<p align="center"><img width="50%" alt="Thumbnail" src="https://github.com/user-attachments/assets/f3d5b8a8-517d-4ff6-a144-056c1775d769" /></p>
+
+
 # Notchtape
 
 A retro cassette and record player for Spotify, living in your MacBook notch.
